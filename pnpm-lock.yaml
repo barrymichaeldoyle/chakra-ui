@@ -94,8 +94,8 @@ importers:
         specifier: ^1.7.0
         version: 1.7.0
       '@types/fs-extra':
-        specifier: 11.0.1
-        version: 11.0.1
+        specifier: 11.0.2
+        version: 11.0.2
       '@types/jest':
         specifier: ^29.5.3
         version: 29.5.3
@@ -10131,8 +10131,8 @@ packages:
     resolution: {integrity: sha512-CWYnSRnun3CGbt6taXeVo2lCbuaj4mchVJ4UF/BdU5TSuIn3AmS13pGMwCsBUoehGbhZrBrpNJZSZI5EVilXww==}
     dev: false
 
-  /@types/fs-extra@11.0.1:
-    resolution: {integrity: sha512-MxObHvNl4A69ofaTRU8DFqvgzzv8s9yRtaPPm5gud9HDNvpB3GPQFvNuTWAI59B9huVGV5jXYJwbCsmBsOGYWA==}
+  /@types/fs-extra@11.0.2:
+    resolution: {integrity: sha512-c0hrgAOVYr21EX8J0jBMXGLMgJqVf/v6yxi0dLaJboW9aQPh16Id+z6w2Tx1hm+piJOLv8xPfVKZCLfjPw/IMQ==}
     dependencies:
       '@types/jsonfile': 6.1.1
       '@types/node': 20.5.2
@@ -16102,7 +16102,7 @@ packages:
       chalk: 4.1.2
       chokidar: 3.5.3
       cosmiconfig: 6.0.0
-      deepmerge: 4.3.1
+      deepmerge: 4.2.2
       eslint: 7.32.0
       fs-extra: 9.1.0
       glob: 7.2.3
@@ -22795,8 +22795,8 @@ packages:
       typescript:
         optional: true
     dependencies:
-      '@babel/code-frame': 7.22.10
-      address: 1.2.2
+      '@babel/code-frame': 7.22.5
+      address: 1.2.0
       browserslist: 4.21.7
       chalk: 4.1.2
       cross-spawn: 7.0.3
