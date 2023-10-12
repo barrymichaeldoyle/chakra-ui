@@ -2619,8 +2619,8 @@ importers:
   packages/hooks/use-size:
     dependencies:
       '@zag-js/element-size':
-        specifier: 0.16.0
-        version: 0.16.0
+        specifier: 0.24.0
+        version: 0.24.0
     devDependencies:
       clean-package:
         specifier: 2.2.0
@@ -11299,8 +11299,8 @@ packages:
     resolution: {integrity: sha512-Oqhd6+biWyKnhKwFFuZrrf6lxBz2tX2pRQe6grUnYwO6HJ8BcbqZomy2lpOdr+3itlaUqx+Ywj5E5ZZDr/LBfQ==}
     dev: false
 
-  /@zag-js/element-size@0.16.0:
-    resolution: {integrity: sha512-GAlrv1PB0bn5dxC+CSXYF0v/HG2mB2cIhyk2cLyAwFVN5lpxGDhYFcuqDVdKWI2wATWJlo3OV+XdIq5GQtYAlQ==}
+  /@zag-js/element-size@0.24.0:
+    resolution: {integrity: sha512-Rm2L+M8w7sfpIXnwe1Brn/9S0wlyj0utI8uvSERn5PbOu/1WPezo40JHMermRWnlWgy8z+Dxo41t6jAhfh3KYA==}
     dev: false
 
   /@zag-js/focus-visible@0.16.0:
@@ -16102,7 +16102,7 @@ packages:
       chalk: 4.1.2
       chokidar: 3.5.3
       cosmiconfig: 6.0.0
-      deepmerge: 4.3.1
+      deepmerge: 4.2.2
       eslint: 7.32.0
       fs-extra: 9.1.0
       glob: 7.2.3
@@ -21168,7 +21168,7 @@ packages:
       is-unicode-supported: 1.2.0
       log-symbols: 5.1.0
       stdin-discarder: 0.1.0
-      strip-ansi: 7.0.1
+      strip-ansi: 7.1.0
       wcwidth: 1.0.1
     dev: false
 
